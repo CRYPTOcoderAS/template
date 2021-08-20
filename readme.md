@@ -90,10 +90,7 @@ width="36" height = "36"/></a>
 <div align="center">
   <img src="https://img.shields.io/badge/Please%20'star',%20if%20you%20like%20it-blue?logo=Starship&style=for-the-badge" width="300" height="35"/>
  </div>
- 
-## Show your support
 
-Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
